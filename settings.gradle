@@ -1,0 +1,2 @@
+include ':app', ':serviceclient'
+rootProject.name='C++Demo'
